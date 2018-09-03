@@ -3,7 +3,7 @@ cors = require('cors');
 
 var express = require('express');
 var app = express();
-var APIKEY = "";  //signup at api.openweathermap.org and obtain an API Key
+var APIKEY = "cb085b583742c292c6cfe02b4807609c";  //signup at api.openweathermap.org and obtain an API Key
 
 var options = {
     host: 'api.openweathermap.org',
